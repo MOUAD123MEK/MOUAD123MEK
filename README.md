@@ -30,15 +30,7 @@
 
 
 
-## 🏆 GitHub Metrics
 
-| Category | Count | Achievement |
-|----------|-------|-------------|
-| **Stars Earned** | 5 | Rising Contributor |
-| **Total Commits** | 13+ | Active Developer |
-| **Pull Requests** | 2 | Collaborative |
-| **Issues** | 0 | Quality Focus |
-| **Contributions** | 1 | Growing Impact |
 
 
 ## Contact me
