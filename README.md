@@ -13,7 +13,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,react,python,git" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,rust,go,bash,git,docker,linux,aws,react" />
 
 ### **Development Tools**
 <p align="left">
@@ -42,3 +41,6 @@
 | **Contributions** | 1 | Growing Impact |
 
 
+## Contact me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ton-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
