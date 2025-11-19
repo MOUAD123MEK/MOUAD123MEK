@@ -62,3 +62,87 @@ Shell              ░░░░░░░░░░░░░░░░░░░░�
 <p align="cdnter">
 "Clean code is not written by following rules. It's written by experience, experimentation, and continuous learning."
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+<p align="left">
+My name is <strong>Mouad Mekrech</strong> and I'm a <strong>Full Stack Digital Development trainee</strong> from <strong>OFPPT Aït Melloul</strong>.
+</p>
+
+---
+
+### 🔥 My GitHub Profile
+<p align="left">
+  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge" />
+</p>
+
+---
+
+<h2 align="left">About me</h2>
+
+<p align="left">
+✨ Creating bugs since <strong>2023</strong><br>
+📚 I'm currently learning <strong>React, Redux Toolkit, APIs, PHP & MySQL</strong><br>
+🎯 Goals: <strong>Build real-world full stack apps and level up my React/PHP skills</strong><br>
+🎲 Fun fact: <strong>I fix bugs I created 5 minutes earlier 😅</strong>
+</p>
+
+---
+
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</div>
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+---
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+- 🛍️ **E-commerce App** – products, cart, admin features  
+- 🎬 **Movie Mobile App** – search, filters, modern UI  
+- 📝 **QCM Interactive App** – dynamic quiz with score  
+- 🐾 **Zoo Management System** (PHP/MySQL) – full CRUD MVC  
+
+---
+
+<p align="center"><b>⭐ If you like my work, don't forget to star my repositories!</b></p>
+
+
