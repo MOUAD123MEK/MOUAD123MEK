@@ -97,8 +97,7 @@ My name is <strong>Mouad Mekrech</strong> and I'm a <strong>Full Stack Digital D
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since <strong>2023</strong><br>
-📚 I'm currently learning <strong>React, Redux Toolkit, APIs, PHP & MySQL</strong><br>
+📚 I'm currently learning <strong>React, Redux Toolkit,  PHP & MySQL</strong><br>
 🎯 Goals: <strong>Build real-world full stack apps and level up my React/PHP skills</strong><br>
 🎲 Fun fact: <strong>I fix bugs I created 5 minutes earlier 😅</strong>
 </p>
@@ -110,15 +109,13 @@ My name is <strong>Mouad Mekrech</strong> and I'm a <strong>Full Stack Digital D
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
@@ -134,14 +131,7 @@ My name is <strong>Mouad Mekrech</strong> and I'm a <strong>Full Stack Digital D
 
 ---
 
-<h2 align="left">🚀 Featured Projects</h2>
 
-- 🛍️ **E-commerce App** – products, cart, admin features  
-- 🎬 **Movie Mobile App** – search, filters, modern UI  
-- 📝 **QCM Interactive App** – dynamic quiz with score  
-- 🐾 **Zoo Management System** (PHP/MySQL) – full CRUD MVC  
-
----
 
 <p align="center"><b>⭐ If you like my work, don't forget to star my repositories!</b></p>
 
