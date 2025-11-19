@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm MEKRECH Mouad a Full Stack Digital Development . 
+I'm MEKRECH Mouad a Full Stack Digital Development. 
 I enjoy building clean, responsive, and efficient web applications.
 <p align="left">
 📚 I'm currently learning <strong>React, Redux Toolkit,  PHP & MySQL</strong><br>
