@@ -1,8 +1,14 @@
-# 👋 Hi, I'm MEKRECH Mouad
+# 👋 Hey,  What's up?
 
 
 # 💫 About Me:
- A Full Stack Digital Development trainee at OFPPT Aït Melloul. I enjoy building clean, responsive, and efficient web applications.
+I'm MEKRECH Mouad a Full Stack Digital Development . 
+I enjoy building clean, responsive, and efficient web applications.
+<p align="left">
+📚 I'm currently learning <strong>React, Redux Toolkit,  PHP & MySQL</strong><br>
+🎯 Goals: <strong>Build real-world full stack apps and level up my React/PHP skills</strong><br>
+🎲 Fun fact: <strong>I fix bugs I created 5 minutes earlier 😅</strong>
+</p>
 
 
 
@@ -57,10 +63,9 @@ Shell              ░░░░░░░░░░░░░░░░░░░░�
 
 
 
-
-
 <p align="cdnter">
 "Clean code is not written by following rules. It's written by experience, experimentation, and continuous learning."
+<p align="center"><b>⭐ If you like my work, don't forget to star my repositories!</b></p>
 
 
 
@@ -78,11 +83,8 @@ Shell              ░░░░░░░░░░░░░░░░░░░░�
 
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">
-My name is <strong>Mouad Mekrech</strong> and I'm a <strong>Full Stack Digital Development trainee</strong> from <strong>OFPPT Aït Melloul</strong>.
-</p>
+
 
 ---
 
@@ -94,33 +96,9 @@ My name is <strong>Mouad Mekrech</strong> and I'm a <strong>Full Stack Digital D
 
 ---
 
-<h2 align="left">About me</h2>
 
-<p align="left">
-📚 I'm currently learning <strong>React, Redux Toolkit,  PHP & MySQL</strong><br>
-🎯 Goals: <strong>Build real-world full stack apps and level up my React/PHP skills</strong><br>
-🎲 Fun fact: <strong>I fix bugs I created 5 minutes earlier 😅</strong>
-</p>
 
----
 
-<h2 align="left">I code with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-</div>
-
----
 
 <h2 align="left">📊 GitHub Stats</h2>
 
@@ -133,6 +111,5 @@ My name is <strong>Mouad Mekrech</strong> and I'm a <strong>Full Stack Digital D
 
 
 
-<p align="center"><b>⭐ If you like my work, don't forget to star my repositories!</b></p>
 
 
